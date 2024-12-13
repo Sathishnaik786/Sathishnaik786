@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://sathishnaik.netlify.app/](https://sathishnaik.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio][(https://sathish-portfolio.framer.ai/)]
 
 - 💬 Ask me about **ReactJs, ReactNative**
 
