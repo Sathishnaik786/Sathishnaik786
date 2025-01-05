@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [MeeBuddy Pvt.Ltd](https://www.meetechsolutions.com/)
 
-- 🌱 I’m currently learning **Java Full Stack at** [Accio Job] [ https://acciob.com]
+- 🌱 I’m currently learning **Java Full Stack at** [Accio Job] [(https://acciojob.com/)]
 - 👨‍💻 All of my projects are available at [Portfolio][(https://sathish-portfolio.framer.ai/)]
 
 - 💬 Ask me about **ReactJs, ReactNative**
