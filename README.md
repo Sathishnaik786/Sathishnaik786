@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [MeeBuddy Pvt.Ltd](https://www.meetechsolutions.com/)
-
 - 🌱 I’m currently learning **Java Full Stack at** [Accio Job] [(https://acciojob.com/)]
 - 👨‍💻 All of my projects are available at [Portfolio][(https://sathish-portfolio.framer.ai/)]
 
