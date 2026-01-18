@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java Full Stack at** [Accio Job] [(https://acciojob.com/)]
+- 🌱 I’m currently Working **Consultant (Technical- Full Stack) at** [YVI Technologies] [(https://yvitech.com/)]
 - 👨‍💻 All of my projects are available at [Portfolio][(https://sathish-portfolio.framer.ai/)]
 
 - 💬 Ask me about **ReactJs, ReactNative**
